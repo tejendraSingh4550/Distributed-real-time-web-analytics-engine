@@ -1,0 +1,14 @@
+E:\Distributed Real-time Web Analytics Engine\src\main\java\com\analytics\engine\AnalyticsEngineApplication.java
+E:\Distributed Real-time Web Analytics Engine\src\main\java\com\analytics\engine\config\KafkaProducerConfig.java
+E:\Distributed Real-time Web Analytics Engine\src\main\java\com\analytics\engine\consumer\AnalyticsConsumer.java
+E:\Distributed Real-time Web Analytics Engine\src\main\java\com\analytics\engine\controller\IngestionController.java
+E:\Distributed Real-time Web Analytics Engine\src\main\java\com\analytics\engine\dto\AnalyticsDashboardResponse.java
+E:\Distributed Real-time Web Analytics Engine\src\main\java\com\analytics\engine\dto\WebEvent.java
+E:\Distributed Real-time Web Analytics Engine\src\main\java\com\analytics\engine\entity\AnalyticsEntity.java
+E:\Distributed Real-time Web Analytics Engine\src\main\java\com\analytics\engine\repository\AnalyticsRepository.java
+E:\Distributed Real-time Web Analytics Engine\src\main\java\com\analytics\engine\service\AnalyticsDashboardProvider.java
+E:\Distributed Real-time Web Analytics Engine\src\main\java\com\analytics\engine\service\AnalyticsEventPublisher.java
+E:\Distributed Real-time Web Analytics Engine\src\main\java\com\analytics\engine\service\KafkaAnalyticsEventPublisher.java
+E:\Distributed Real-time Web Analytics Engine\src\main\java\com\analytics\engine\service\LocalAnalyticsDashboardProvider.java
+E:\Distributed Real-time Web Analytics Engine\src\main\java\com\analytics\engine\service\LocalAnalyticsEventPublisher.java
+E:\Distributed Real-time Web Analytics Engine\src\main\java\com\analytics\engine\service\TimescaleAnalyticsDashboardProvider.java

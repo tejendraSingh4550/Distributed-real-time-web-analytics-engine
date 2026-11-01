@@ -1,0 +1,16 @@
+com\analytics\engine\controller\IngestionController.class
+com\analytics\engine\service\KafkaAnalyticsEventPublisher.class
+com\analytics\engine\dto\WebEvent.class
+com\analytics\engine\entity\AnalyticsEntity.class
+com\analytics\engine\repository\AnalyticsRepository.class
+com\analytics\engine\service\AnalyticsDashboardProvider.class
+com\analytics\engine\consumer\AnalyticsConsumer.class
+com\analytics\engine\dto\AnalyticsDashboardResponse.class
+com\analytics\engine\AnalyticsEngineApplication.class
+com\analytics\engine\dto\AnalyticsDashboardResponse$PageviewBucket.class
+com\analytics\engine\config\KafkaProducerConfig.class
+com\analytics\engine\service\LocalAnalyticsDashboardProvider.class
+com\analytics\engine\dto\AnalyticsDashboardResponse$RecentEvent.class
+com\analytics\engine\service\AnalyticsEventPublisher.class
+com\analytics\engine\service\TimescaleAnalyticsDashboardProvider.class
+com\analytics\engine\service\LocalAnalyticsEventPublisher.class
